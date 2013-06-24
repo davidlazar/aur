@@ -2,6 +2,8 @@
 # Contributor: Kevin Piche <kevin@archlinux.org>
 # Maintainer: David Lazar <lazar6 at illinois edu>
 
+# Contribute changes: https://github.com/davidlazar/aur
+
 pkgname=hugs98
 pkgver=200609
 pkgrel=5
